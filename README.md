@@ -21,3 +21,6 @@ This project is configured for **Streamlit Cloud**.
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/ta234vi/face_attendance_system.git](https://github.com/ta234vi/face_attendance_system.git)
+2. pip install -r requirements.txt
+
+3. streamlit run interface.py
